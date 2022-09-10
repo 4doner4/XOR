@@ -1,0 +1,15 @@
+D:\PROJECT\visual studio\Лаб Оиб\Лаб Оиб\bin\Debug\net6.0\Лаб Оиб.exe
+D:\PROJECT\visual studio\Лаб Оиб\Лаб Оиб\bin\Debug\net6.0\Лаб Оиб.deps.json
+D:\PROJECT\visual studio\Лаб Оиб\Лаб Оиб\bin\Debug\net6.0\Лаб Оиб.runtimeconfig.json
+D:\PROJECT\visual studio\Лаб Оиб\Лаб Оиб\bin\Debug\net6.0\Лаб Оиб.dll
+D:\PROJECT\visual studio\Лаб Оиб\Лаб Оиб\bin\Debug\net6.0\Лаб Оиб.pdb
+D:\PROJECT\visual studio\Лаб Оиб\Лаб Оиб\obj\Debug\net6.0\Лаб Оиб.csproj.AssemblyReference.cache
+D:\PROJECT\visual studio\Лаб Оиб\Лаб Оиб\obj\Debug\net6.0\Лаб Оиб.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\visual studio\Лаб Оиб\Лаб Оиб\obj\Debug\net6.0\Лаб Оиб.AssemblyInfoInputs.cache
+D:\PROJECT\visual studio\Лаб Оиб\Лаб Оиб\obj\Debug\net6.0\Лаб Оиб.AssemblyInfo.cs
+D:\PROJECT\visual studio\Лаб Оиб\Лаб Оиб\obj\Debug\net6.0\Лаб Оиб.csproj.CoreCompileInputs.cache
+D:\PROJECT\visual studio\Лаб Оиб\Лаб Оиб\obj\Debug\net6.0\Лаб Оиб.dll
+D:\PROJECT\visual studio\Лаб Оиб\Лаб Оиб\obj\Debug\net6.0\refint\Лаб Оиб.dll
+D:\PROJECT\visual studio\Лаб Оиб\Лаб Оиб\obj\Debug\net6.0\Лаб Оиб.pdb
+D:\PROJECT\visual studio\Лаб Оиб\Лаб Оиб\obj\Debug\net6.0\Лаб Оиб.genruntimeconfig.cache
+D:\PROJECT\visual studio\Лаб Оиб\Лаб Оиб\obj\Debug\net6.0\ref\Лаб Оиб.dll
